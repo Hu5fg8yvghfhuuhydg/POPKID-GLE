@@ -23,7 +23,7 @@
     "OWNER": {
       "description": "Owner's name or username tag",
       "required": true,
-      "value": "Popkid"
+      "value": "soyal"
     },
     "OWNER_NUMBER": {
       "description": "Main owner number (e.g. +917718132447)",
