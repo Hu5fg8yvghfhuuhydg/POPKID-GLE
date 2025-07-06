@@ -26,13 +26,13 @@
       "value": "Popkid"
     },
     "OWNER_NUMBER": {
-      "description": "Main owner number (e.g. +2547XXXXXXX)",
+      "description": "Main owner number (e.g. +917718132447)",
       "required": true
     },
     "MODE": {
       "description": "Bot mode: 'public', 'private', or 'self'",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "ALWAYS_ONLINE": {
       "description": "Bot shows always online: 'true' or 'false'",
